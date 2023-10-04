@@ -1,0 +1,26 @@
+sliders
+id | img | title | descri | status | created_at | updated_at
+
+int AI | VARCHAR(150) | VARCHAR(150) | VARCHAR(255) | INT ( 1) | TIMESTAMP ( CURRENT_TIMESTAMP)
+
+abouts
+id | title | sub_title | description | status | | created_at | updated_at
+
+
+features
+id |icon |  title | status | created_at | updated_at
+
+
+
+teams
+
+id | top_title | top_desc | img | name | post | status | | created_at | updated_at
+
+
+skills
+
+id | top_title | top_desc | skill_title| status | | created_at | updated_at
+
+clients
+id | title | img | status |
+
